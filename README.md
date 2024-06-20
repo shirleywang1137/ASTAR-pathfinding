@@ -1,4 +1,4 @@
-# Emergency Vehicle Pickup using A*
+# Fast and Furious: 911*
 
 Hi! This project is an implementation of the A* algorithm for emergency vehicle scheduling. I designed it to simulate a vehicle's pickup of patients with the goal of minimizing energy usage for vehicles. In an attempt to make it closer to a real-world scenario, I've added some rules.
 
